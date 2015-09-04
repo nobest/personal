@@ -1,0 +1,192 @@
+.main{
+	width: 45%;
+	height: 330px;
+	margin: 25px 0px 0px 320px;
+	background-color:  rgba(251, 159, 108, 0.37);
+	border-radius: 20px;
+}
+
+
+.submit{
+	width: 80px;
+	height: 25px;
+	margin: 10px 0px 0px 260px;
+	background-color: #b30d1b;
+    border-radius: 6px 6px 0 0;
+    font-family: Georgia;
+    font-size: 14px;
+}
+.cancel{
+	width: 80px;
+	height: 25px;
+	margin: 10px 0px 0px 50px;
+	background-color: #b30d1b;
+    border-radius: 6px 6px 0 0;
+    font-family: Georgia;
+    font-size: 14px;
+}
+.list_main{
+	width: 40%;
+	height: 500px;
+	margin: 40px 0px 0px 370px;
+}
+.recipe_list{
+	width: 200px;
+	height: 30px;
+	margin: 0px 0px 0px 100px
+}
+.update{
+	width: 50%;
+	height: 80px;
+	margin: 150px 0px 0px 280px;
+	background-color:  rgba(251, 159, 108, 0.37);
+	border-radius: 20px;
+}
+.textarea{
+	width: 200px;
+	height: 70px;
+	margin: 5px 0px 0px 0px
+}
+.edit{
+	width: 80px;
+	height: 25px;
+	margin: 10px 0px 0px 310px;
+	background-color: #b30d1b;
+    border-radius: 6px 6px 0 0;
+    font-family: Georgia;
+    font-size: 14px;
+}
+.delete{
+	width: 80px;
+	height: 25px;
+	margin: 10px 0px 0px 50px;
+	background-color: #b30d1b;
+	border-radius: 6px 6px 0 0;
+    font-family: Georgia;
+    font-size: 14px;
+}
+.header{
+	width: 1366px;
+	height: 60px;
+	margin: -7px 0px 0px -10px;
+	background-color: rgba(251, 159, 108, 0.37)
+}
+
+.edit_button{
+	width: 105px;
+	height: 30px;
+	margin: 8px 0px 0px 1150px;
+	
+}
+.sidebar{
+	width: 30%;
+	height: 50px;
+	float: right;
+}
+#list_of_recipies{
+	font-family: Georgia;
+	font-size: 20px;
+}
+.star{
+	color: #b93e50
+}
+.table_list{
+	background-color:  rgba(251, 159, 108, 0.37);
+}
+
+ul#menu li a:hover {
+    background-color: rgba(251, 159, 108, 0.37);
+}
+
+ul#menu li{
+	display: inline;
+}
+ul#menu li a {
+    background-color: #b30d1b;
+    color: #000;
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 8px 8px 0 0;
+    margin: 0px 0px 0px 10px;
+    font-family: Georgia;
+    font-size: 14px;
+}
+#add_recipe_content{
+	font-family: Georgia;
+	font-size: 16px
+}
+.add_recipe_main{
+	width:37%;
+	margin: 130px 0px 0px 430px;
+	height:320px;
+	background-color: rgba(251, 159, 108, 0.37) ;
+	border-radius: 20px;
+}
+.detail_main{
+	width: 100%;
+	height: 645px;
+}
+.sub_detail_main{
+	width: 50%;
+	height: 430px;
+	margin: 90px 0px 0px 200px;
+	background-color: rgba(251, 159, 108, 0.37)
+}
+.ingr_detail_main{
+	width: 40%;
+	height: 310px;
+	margin: 0px 0px 0px 20px;
+	border-right: 1px dotted;
+	float: left;
+	overflow: scroll;
+}
+.direc_detail_main{
+	width: 50%;
+	height: 310px;
+	margin: 0px 0px 0px 15px;
+	float: left;
+	overflow: scroll;
+}
+#styling{
+	text-align: center;
+	font-family: Georgia;
+	font-size: 25px;
+	color: #000;
+}
+#name_of_recipe{
+	width: 290px;
+	height: 70px;
+	margin: 0px 0px 0px 170px;
+}
+#ingredients{
+	font-family: Georgia;
+	font-size: 17px;
+	color: #000;	
+}
+#directions{
+	font-family: Georgia;
+	font-size: 17px;
+	color: #000;
+}
+#main_recipe_name{
+	font-family: Georgia;
+	font-size: 30px;
+	color: #000;
+	text-align: center;
+}
+.logo{
+	width: 400px;
+	height: 60px;
+	margin: 0px 0px 0px 10px;
+	float: left;
+}
+#main_logo{
+	font-family: cursive;
+	font-size: 35px;
+	margin: 0px 0px 0px 0px
+}
+#sub_logo{
+	font-family: cursive;
+	font-size: 12px;
+	margin: -7px 0px 0px 0px
+}
